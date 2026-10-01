@@ -1,0 +1,2 @@
+[console_scripts]
+pcal = pcal.__main__:main

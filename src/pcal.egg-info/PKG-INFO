@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: pcal
+Version: 0.1.0
+Summary: Persian calendar CLI
+Requires-Python: >=3.10
+License-File: LICENSE
+Requires-Dist: rich
+Requires-Dist: jdatetime
+Dynamic: license-file
